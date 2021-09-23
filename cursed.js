@@ -1,0 +1,1 @@
+(function(){(()=>{if(true){try{var _0x9aa6=["\x68\x65\x6C\x6C\x6F\x2C\x20\x77\x6F\x72\x6C\x64",];throw _0x9aa6[0];}catch(e){((msg)=>{console.log(msg);})(e);}}})();})();
